@@ -1,0 +1,149 @@
+body{
+	background-color: #121317
+}
+body{
+	text-align: center;
+}
+.navegacion,.inicio,.micuenta,{
+	background-color: #2980B9 ;
+	width: 1000px ;
+    
+	
+
+}
+
+.inicio{
+	
+
+	text-decoration: none;
+	display: inline;
+	color: #F23D3D;
+	background-color:#F2CDA0;
+	border-radius: 5px;
+	border-color: black solid;
+	border-width:black 10px;
+	left: 90px
+
+
+
+
+}
+.micuenta{
+	text-decoration: none;
+	color: #F23D3D;
+	background-color:#F2CDA0;
+	border-radius: 5px;
+	border-color: black solid;
+	border-width:black 10px;
+
+}
+.nosotros{
+	text-decoration: none;
+	display: inline;
+	color: #F23D3D;
+	background-color:#F2CDA0;
+	border-radius: 5px;
+	border-color: black solid;
+	border-width:black 10px;
+}
+#navega{
+	display: inline;
+	color: #F23D3D;
+	background-color:#F2CDA0;
+	border-radius: 5px;
+	border-color: black solid;
+	border-width:black 10px;
+}
+.p1{
+	width: 400px x 200px
+}
+.parrafo1{
+	width: 400px 20px;
+	display: block;
+}
+.imag{
+
+	width:400px;
+	
+}
+.comprar{
+
+	text-decoration: none;
+	color: #F23D3D;
+	background-color:#F2CDA0;
+	border-radius: 5px;
+	border-color: black solid;
+	border-width:black 10px;
+
+
+
+}
+/*pie de pagina*/
+.comentarios{
+	background-color: black;
+	border-color:black solid;
+	color: red
+}
+.imp{
+  
+}
+.carac, .sub{
+		
+	color: white
+}
+{
+	top: 1000px
+}
+.tec{
+    top: 180px 1000px;
+    border-color:red;
+    opacity: 0.2
+}
+{
+
+	background-color: #cccccc;
+	display: contents;
+}
+.barra{
+	position: relative;
+	bottom: 620px;
+	left: 190px;
+	opacity: 50%;
+	size: 20px,50px
+
+}
+.contra{
+		position: relative;
+	bottom: 510px;
+	left: 20px;
+	opacity: 50%;
+	
+}
+.enviar{
+		position: relative;
+	bottom: 410px;
+	left: 20px;
+	opacity: 100%;
+	text-decoration: none;
+	display: inline;
+	color: black;
+	background-color: white;
+	border-radius: 5px;
+	border-color: black solid;
+	border-width:black 10px;
+
+}
+.perfil{
+	width: 80px;
+	height: 80px;
+
+}
+
+
+.navp{
+	width: 50px;
+	height: 50px;
+	position: relative;
+	left: 590px
+
+}
